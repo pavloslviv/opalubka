@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-09-23 18:21+0300\n"
+"PO-Revision-Date: 2015-09-23 18:22+0300\n"
+"Last-Translator: mojWP <admin@mojwp.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: callphoner.php:32
+msgid ""
+"Increase calls of the clients who visite your website from the mobile phone"
+msgstr "Увеличьте звонки клиентов зашедших на ваш сайт с мобильного телефона"
+
+#: callphoner.php:45
+msgid "Settings"
+msgstr "Настройки"
+
+#: callphoner.php:46 callphoner.php:353
+msgid "Instruction"
+msgstr "Инструкция"
+
+#: callphoner.php:76 callphoner.php:79
+msgid "Plugin status"
+msgstr "Состояние плагина"
+
+#: callphoner.php:80
+msgid "On"
+msgstr "Включен"
+
+#: callphoner.php:81
+msgid "Off"
+msgstr "Выключен"
+
+#: callphoner.php:86
+msgid "Button settings"
+msgstr "Настройки кнопки"
+
+#: callphoner.php:89
+msgid "Size of the button in px"
+msgstr "Размер кнопки в px"
+
+#: callphoner.php:93
+msgid "Button background color"
+msgstr "Цвет фона кнопки"
+
+#: callphoner.php:97
+msgid "Button color"
+msgstr "Цвет кнопки"
+
+#: callphoner.php:101
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: callphoner.php:105
+msgid "Plugin schedule"
+msgstr "Расписание работы плагина"
+
+#: callphoner.php:109
+msgid "Current time your server"
+msgstr "Время вашего сервера"
+
+#: callphoner.php:113
+msgid "Working time"
+msgstr "Рабочее время"
+
+#: callphoner.php:114
+msgid "Breaking time"
+msgstr "Обед"
+
+#: callphoner.php:116
+msgid "Monday"
+msgstr "Понедельник"
+
+#: callphoner.php:117
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: callphoner.php:118
+msgid "Wednesday"
+msgstr "Среда"
+
+#: callphoner.php:119
+msgid "Thursday"
+msgstr "Четверг"
+
+#: callphoner.php:120
+msgid "Friday"
+msgstr "Пятница"
+
+#: callphoner.php:121
+msgid "Saturday"
+msgstr "Суббота"
+
+#: callphoner.php:122
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: callphoner.php:129
+msgid "Save settings"
+msgstr "Сохранить изменения"
+
+#: callphoner.php:151
+msgid "around the clock"
+msgstr "круглосуточно"
+
+#: callphoner.php:164
+msgid "no break"
+msgstr "без перерыва"
+
+#: callphoner.php:223
+msgid "Settings saved..."
+msgstr "Настройки сохранены..."

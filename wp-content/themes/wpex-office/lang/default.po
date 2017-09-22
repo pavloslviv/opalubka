@@ -1,0 +1,2367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-13 18:00-0800\n"
+"PO-Revision-Date: 2013-05-13 18:00-0800\n"
+"Last-Translator: WPExplorer <wpexplore@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../404.php:11
+msgid "homepage"
+msgstr ""
+
+#: ../archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../author-bio.php:12
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../author.php:8
+msgid "Posts by"
+msgstr ""
+
+#: ../author.php:8
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:57
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../content.php:54
+msgid "continue reading"
+msgstr ""
+
+#: ../footer.php:32
+msgid "back up"
+msgstr ""
+
+#: ../footer.php:44
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:42
+msgid "Top"
+msgstr ""
+
+#: ../functions.php:43 ../admin/functions/functions.options.php:527
+msgid "Main"
+msgstr ""
+
+#: ../functions.php:44 ../admin/functions/functions.options.php:1445
+msgid "Footer"
+msgstr ""
+
+#: ../search.php:44
+msgid "No results found for that query."
+msgstr ""
+
+#: ../searchform.php:8
+msgid "search"
+msgstr ""
+
+#: ../single-faqs.php:12
+msgid "FAQ"
+msgstr ""
+
+#: ../single-portfolio.php:233 ../admin/functions/functions.options.php:996
+msgid "Related Items"
+msgstr ""
+
+#: ../single-staff.php:48
+msgid "Related Staff"
+msgstr ""
+
+#: ../single-testimonials.php:12
+msgid "Testimonial by"
+msgstr ""
+
+#: ../template-faqs.php:80
+msgid "All FAQs"
+msgstr ""
+
+#: ../template-faqs.php:80 ../template-portfolio-with-filter.php:40
+#: ../functions/post-types-taxonomies/post-type-helpers.php:24
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:32
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:72
+#: ../functions/widgets/recent-portfolio.php:90
+msgid "All"
+msgstr ""
+
+#: ../template-sitemap.php:36
+msgid "Feeds"
+msgstr ""
+
+#: ../template-sitemap.php:48
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:68
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:71
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:72
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:82
+msgid "Tags"
+msgstr ""
+
+#: ../template-sitemap.php:67
+msgid "Archives by Month"
+msgstr ""
+
+#: ../template-sitemap.php:81
+msgid "Blog Categories"
+msgstr ""
+
+#: ../template-sitemap.php:105
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../template-sitemap.php:135
+msgid "Pages"
+msgstr ""
+
+#: ../woocommerce.php:15 ../functions/breadcrumbs.php:79
+msgid "Shop"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:457
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:616
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:94
+msgid "General"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:97
+msgid "Main Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:98
+msgid "Use this field to upload your custom logo for use in the theme header."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:103
+msgid "Main Retina Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:104
+msgid ""
+"Use this field to upload your custom logo (retina version) for use in the "
+"theme header. This should be 2x as large as the standard logo defined above."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:109
+msgid "Retina Logo Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:110
+msgid ""
+"Enter the height for your logo in px. This is used to make sure your retina "
+"logo loads correctly. It should be 2x the size of your standard logo image."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:115
+msgid "Retina Logo Width"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:116
+msgid ""
+"Enter the width for your logo in px. This is used to make sure your retina "
+"logo loads correctly. It should be 2x the size of your standard logo image."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:121
+msgid "Login Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:122
+msgid "Upload a custom logo for your Wordpress login screen."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:127
+msgid "Login Logo Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:128
+msgid ""
+"Enter the height of your custom logo to override the default WordPress image "
+"height. Width, must not be changed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:133
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:134
+msgid "Upload or past the URL for your custom favicon."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:139
+msgid "Custom Responsive Menu Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:140
+msgid ""
+"Enter your custom responsive menu text. Leave blank to show localized string."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:145
+msgid "Built-in Shortcodes"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:146
+msgid ""
+"Do you wish to use the built-in shortcodes? If not, disable it to remove "
+"some bloat and speed things up a bit!"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:149
+#: ../admin/functions/functions.options.php:157
+#: ../admin/functions/functions.options.php:165
+#: ../admin/functions/functions.options.php:185
+#: ../admin/functions/functions.options.php:231
+#: ../admin/functions/functions.options.php:271
+#: ../admin/functions/functions.options.php:296
+#: ../admin/functions/functions.options.php:304
+#: ../admin/functions/functions.options.php:312
+#: ../admin/functions/functions.options.php:320
+#: ../admin/functions/functions.options.php:661
+#: ../admin/functions/functions.options.php:739
+#: ../admin/functions/functions.options.php:748
+#: ../admin/functions/functions.options.php:964
+#: ../admin/functions/functions.options.php:992
+#: ../admin/functions/functions.options.php:1000
+#: ../admin/functions/functions.options.php:1099
+#: ../admin/functions/functions.options.php:1125
+#: ../admin/functions/functions.options.php:1145
+#: ../admin/functions/functions.options.php:1161
+#: ../admin/functions/functions.options.php:1177
+#: ../admin/functions/functions.options.php:1185
+#: ../admin/functions/functions.options.php:1193
+#: ../admin/functions/functions.options.php:1201
+#: ../admin/functions/functions.options.php:1212
+#: ../admin/functions/functions.options.php:1220
+#: ../admin/functions/functions.options.php:1229
+#: ../admin/functions/functions.options.php:1237
+#: ../admin/functions/functions.options.php:1245
+#: ../admin/functions/functions.options.php:1253
+#: ../admin/functions/functions.options.php:1261
+#: ../admin/functions/functions.options.php:1272
+#: ../admin/functions/functions.options.php:1452
+#: ../admin/functions/functions.options.php:1460
+msgid "Enable"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:150
+#: ../admin/functions/functions.options.php:158
+#: ../admin/functions/functions.options.php:166
+#: ../admin/functions/functions.options.php:186
+#: ../admin/functions/functions.options.php:232
+#: ../admin/functions/functions.options.php:272
+#: ../admin/functions/functions.options.php:297
+#: ../admin/functions/functions.options.php:305
+#: ../admin/functions/functions.options.php:313
+#: ../admin/functions/functions.options.php:321
+#: ../admin/functions/functions.options.php:662
+#: ../admin/functions/functions.options.php:740
+#: ../admin/functions/functions.options.php:749
+#: ../admin/functions/functions.options.php:965
+#: ../admin/functions/functions.options.php:993
+#: ../admin/functions/functions.options.php:1001
+#: ../admin/functions/functions.options.php:1100
+#: ../admin/functions/functions.options.php:1126
+#: ../admin/functions/functions.options.php:1146
+#: ../admin/functions/functions.options.php:1162
+#: ../admin/functions/functions.options.php:1178
+#: ../admin/functions/functions.options.php:1186
+#: ../admin/functions/functions.options.php:1194
+#: ../admin/functions/functions.options.php:1202
+#: ../admin/functions/functions.options.php:1213
+#: ../admin/functions/functions.options.php:1221
+#: ../admin/functions/functions.options.php:1230
+#: ../admin/functions/functions.options.php:1238
+#: ../admin/functions/functions.options.php:1246
+#: ../admin/functions/functions.options.php:1254
+#: ../admin/functions/functions.options.php:1262
+#: ../admin/functions/functions.options.php:1273
+#: ../admin/functions/functions.options.php:1453
+#: ../admin/functions/functions.options.php:1461
+msgid "Disable"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:153
+msgid "Auto Lightbox For WP Galleries"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:154
+msgid ""
+"Select to automatically add lightbox support for the default WordPress image "
+"galleries."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:161
+msgid "Clean-up WP Head"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:162
+msgid ""
+"Enable to clean up your site's header from auto code added by WP, such as "
+"the WP version."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:170
+msgid "Header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:176
+#: ../admin/functions/functions.options.php:181
+msgid "Top Bar"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:182
+msgid "Select to enable/disable the top bar"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:189
+msgid "Top Bar Static or Fixed"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:190
+msgid ""
+"Select if you want a static or fixed top bar. The Fixed option will keep the "
+"bar always visible."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:197
+msgid "Top Bar Callout Button Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:198
+msgid "Enter the text for your top bar callout button."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:204
+msgid "Top Bar Callout Button Link"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:205
+msgid "Enter the url to link your top bar callout button to"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:211
+msgid "Top Bar Link Target"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:212
+msgid "Select your link target"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:222
+msgid "Main Header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:227
+msgid "Header Search Bar"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:228
+msgid "Select to enable/disable the search bar in the header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:235
+msgid "Header Callout Text (Phone Number)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:236
+msgid ""
+"Enter your text for the callout area in the header. This is the area where "
+"you most likely want to add a phone number."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:242
+msgid "Header Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:243
+msgid "Select your header style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:249
+msgid "Header Top/Bottom Padding"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:250
+msgid "Enter your header top and bottom padding in pixels. Default is 25px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:255
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:256
+msgid "Enter a top margin value for your logo in pixels Default is 0px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:261
+msgid "Header Social/Phone/Search Top Margin"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:262
+msgid ""
+"Enter a top margin value for your header aside section which includes the "
+"social icons, phone number and search form. Default is 25px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:267
+msgid "Header Social/Phone/Search On Small Devices"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:268
+msgid ""
+"Select to enable/disable the callout text, social and header seach on small "
+"screens."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:276
+msgid "Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:279
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:280
+msgid ""
+"Select a background pattern for your site. If you choose \"none\" you can "
+"then upload your custom background image or select a custom background color "
+"at Apperance->Background."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:289
+msgid "Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:292
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:293
+msgid "Select to enable/disable the responsive layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:300
+msgid "Main Wrapper Background Pattern"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:301
+msgid ""
+"Select to enable/disable the light diamond pattern on main content background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:308
+msgid "Main Wrapper Shadow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:309
+msgid "Select to enable/disable the main wrapper drop shadow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:316
+msgid "Right Border On Last Menu Item"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:317
+msgid ""
+"Select to enable/disable the border on the lasst menu icon. Best if you do "
+"not have a lot of menu items on your main navigation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:325
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:326
+msgid "Select the sidebar position for your site. Choose left or right."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:338
+msgid "General Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:343
+msgid "Highlight Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:344
+#: ../admin/functions/functions.options.php:350
+#: ../admin/functions/functions.options.php:356
+#: ../admin/functions/functions.options.php:370
+#: ../admin/functions/functions.options.php:376
+#: ../admin/functions/functions.options.php:382
+#: ../admin/functions/functions.options.php:388
+#: ../admin/functions/functions.options.php:394
+#: ../admin/functions/functions.options.php:408
+#: ../admin/functions/functions.options.php:414
+#: ../admin/functions/functions.options.php:428
+#: ../admin/functions/functions.options.php:434
+#: ../admin/functions/functions.options.php:440
+#: ../admin/functions/functions.options.php:446
+#: ../admin/functions/functions.options.php:452
+#: ../admin/functions/functions.options.php:458
+#: ../admin/functions/functions.options.php:464
+#: ../admin/functions/functions.options.php:470
+#: ../admin/functions/functions.options.php:484
+#: ../admin/functions/functions.options.php:490
+#: ../admin/functions/functions.options.php:504
+#: ../admin/functions/functions.options.php:510
+#: ../admin/functions/functions.options.php:516
+msgid "Select your preferred color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:349
+msgid "Main Body Link Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:355
+msgid "Homepage Tagline Link Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:364
+msgid "Top Bar Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:369
+msgid "Top Bar Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:375
+msgid "Top Bar Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:381
+msgid "Callout Button Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:387
+msgid "Callout Button Background Hover"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:393
+msgid "Callout Button Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:402
+msgid "Header Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:407
+msgid "Header Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:413
+msgid "Header Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:422
+msgid "Navigation Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:427
+msgid "Navigation Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:433
+msgid "Navigation Link"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:439
+msgid "Navigation Link Hover Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:445
+msgid "Navigation Link Hover Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:451
+msgid "Navigation Current Item Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:457
+msgid "Navigation Current Item Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:463
+msgid "Navigation Light Border"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:469
+msgid "Navigation Dark Border"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:478
+msgid "FlexSlider Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:483
+msgid "Slider Caption Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:489
+msgid "Slider Caption Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:498
+msgid "Footer Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:503
+msgid "Footer Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:509
+msgid "Footer Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:515
+msgid "Footer Borders"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:521
+msgid "Typography"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:533
+#: ../admin/functions/functions.options.php:563
+msgid "Select your font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:538
+#: ../admin/functions/functions.options.php:549
+#: ../admin/functions/functions.options.php:568
+#: ../admin/functions/functions.options.php:602
+#: ../admin/functions/functions.options.php:635
+msgid "Font Preview Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:543
+msgid "Headings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:544
+msgid ""
+"Headings font properties. This will be applied to h1, h2, h3, h4, h5, h6 "
+"tags."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:557
+msgid "Callout Button"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:562
+msgid "Callout Button Font Family"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:573
+msgid "Callout Button Font Size"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:574
+#: ../admin/functions/functions.options.php:608
+#: ../admin/functions/functions.options.php:641
+msgid "Select your desired font size in pixels."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:579
+msgid "Callout Button Font Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:580
+#: ../admin/functions/functions.options.php:614
+#: ../admin/functions/functions.options.php:647
+msgid "Select your desired font style."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:591
+#: ../admin/functions/functions.options.php:596
+msgid "Navigation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:597
+msgid "Navigation button font properties."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:607
+msgid "Navigation Font Size"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:613
+msgid "Navigation Font Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:624
+#: ../admin/functions/functions.options.php:629
+msgid "Homepage Tagline"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:630
+msgid "Homepage tagine font properties."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:640
+msgid "Homepage Tagline Font Size"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:646
+msgid "Homepage Tagline Font Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:654
+msgid "Social"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:657
+msgid "Social Icons In Header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:658
+msgid "Select to enable/disable the social icons in the header."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:665
+msgid "Social Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:666
+msgid "Select your social icon style."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:679
+msgid "Enter your "
+msgstr ""
+
+#: ../admin/functions/functions.options.php:679
+msgid " url"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:679
+msgid "Include http:// at the front of the url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:689
+#: ../functions/breadcrumbs.php:20
+msgid "Home"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:692
+msgid "Homepage Layout Manager"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:693
+msgid "Organize how you want the layout to appear on the homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:701
+msgid "Slider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:706
+msgid "Slider Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:707
+msgid ""
+"Enter your custom featured image height in pixels. Default is 9999 (no "
+"cropping)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:713
+msgid "Animation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:714
+msgid "Select your desired slider animation."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:724
+msgid "Animation Direction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:725
+msgid ""
+"Select your desired direction for the slider animation.<br /><br /"
+"><strong>Note:</strong> If you choose vertical slides, all slides must be "
+"the same height to prevent issues."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:735
+msgid "Auto Slideshow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:736
+msgid "Do you wish to enable or disable the automatic slideshow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:744
+msgid "Randomize Slideshow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:745
+msgid "Do you wish to enable or disable random slide order."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:753
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:754
+msgid ""
+"Adjust the slideshow speed of your homepage slider. Time in milliseconds"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:766
+msgid "RevSlider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:772
+msgid "Slider Revolution Shortcode"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:773
+msgid ""
+"Enter your slider revolution shortcode here. Of course anything would really "
+"work in this module, but it is intended for your slider revolution "
+"shortcode.."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:782
+msgid "Static Video"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:787
+msgid "Video"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:788
+msgid ""
+"Here you can enter HTML, shortcodes, embed code...etc. This module is called "
+"\"Static Video\" but really it could be used for anything you like. Embeded "
+"videos will expand to the full-width of the site, much like the slider."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:796
+msgid "Homepage Content"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:801
+msgid "Page Content Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:802
+msgid "Enter the text for your static page module. (optional)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:807
+msgid "Page Content Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:808
+msgid "Enter the url for your static page module. (optional)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:816
+msgid "Tagline"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:821
+msgid "Tagline Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:822
+#: ../admin/functions/functions.options.php:848
+#: ../admin/functions/functions.options.php:868
+#: ../admin/functions/functions.options.php:901
+msgid ""
+"Enter your custom title for this module. Leave blank to show nothing. Leave "
+"blank to use the localized alternative for translations. Enter the words "
+"\"disable\" to disable the title."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:827
+msgid "Tagline URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:828
+msgid "Enter a url to link your homepage tagline module title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:833
+msgid "Tagline Content"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:834
+msgid "Control your homepage tagline here. HTML and shortcodes allowed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:842
+msgid "Highlights"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:847
+msgid "Highlights Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:853
+msgid "Highlights Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:854
+msgid "Enter a url to link your highlights title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:862
+#: ../admin/functions/functions.options.php:931
+#: ../admin/functions/functions.options.php:1324
+#: ../functions/breadcrumbs.php:200 ../functions/meta/usage.php:231
+#: ../functions/post-types-taxonomies/register-post-types.php:76
+#: ../functions/post-types-taxonomies/register-taxonomies.php:17
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:22
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:62
+msgid "Portfolio"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:867
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:873
+msgid "Portfolio Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:874
+msgid "Enter a url to link your portfolio items title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:879
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:880
+msgid ""
+"If you do not want to show all the recent portfolio items, select a specific "
+"category below."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:886
+msgid "How Many Latest Portfolio Items"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:887
+msgid "How many latest portfolio items do you want to show on the homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:895
+msgid "Blog Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:900
+msgid "Blog Posts Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:906
+msgid "Blog Items Title URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:907
+msgid "Enter a url to link your blog items title to (optional)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:912
+#: ../functions/meta/usage.php:259
+msgid "Blog Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:913
+msgid ""
+"If you do not want to show all the recent blog posts, select a specific "
+"category below."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:919
+msgid "How Many Latest Blog Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:920
+msgid "How many latest blog items do you want to show on the homepage."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:925
+msgid "Blog Items Excerpt Length"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:926
+msgid "Enter your excerpt length for the latest blog items."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:937
+#: ../admin/functions/functions.options.php:1070
+msgid "Entries/Archives"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:942
+#: ../admin/functions/functions.options.php:1075
+msgid "Template: Items Per Page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:943
+#: ../admin/functions/functions.options.php:1076
+msgid ""
+"How many portfolio items do you wish to show on the portfolio page before "
+"activating the pagination. (filtered portfolio will always show all)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:948
+#: ../admin/functions/functions.options.php:1081
+msgid "Category: Items Per Portfolio"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:949
+#: ../admin/functions/functions.options.php:1082
+msgid ""
+"How many portfolio items do you wish to show on the portfolio categories "
+"before activating the pagination."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:954
+#: ../admin/functions/functions.options.php:1135
+msgid "Entry Featured Image Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:955
+msgid "Enter your custom featured image height in pixels. Default is 140."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:960
+msgid "Entry Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:961
+msgid "Select to enable or disable the titles on portfolio entries."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:971
+#: ../admin/functions/functions.options.php:1090
+#: ../admin/functions/functions.options.php:1152
+msgid "Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:976
+msgid "Custom Post Featured Image Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:977
+#: ../admin/functions/functions.options.php:983
+msgid ""
+"Enter your custom featured image height in pixels. Default is 9999 "
+"(unlimited height)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:982
+msgid "Custom Full-Width Post Featured Image Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:988
+msgid "Portfolio Meta Box (date, client, link)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:989
+msgid ""
+"Select to enable or disable the portfolio meta. This is the note-paper style "
+"box with the post details."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:997
+msgid ""
+"Select to enable or disable the related portfolio items on single portfolio "
+"posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1064
+#: ../admin/functions/functions.options.php:1350
+#: ../functions/breadcrumbs.php:216 ../functions/meta/usage.php:232
+#: ../functions/post-types-taxonomies/register-post-types.php:97
+#: ../functions/post-types-taxonomies/register-taxonomies.php:21
+msgid "Staff"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1095
+msgid "Featured Images"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1096
+msgid "Select to enable or disable featured images on staff posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1103
+#: ../functions/breadcrumbs.php:68
+msgid "Blog"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1109
+msgid "Entries"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1114
+msgid "Entry Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1115
+msgid "Select your preferred style for your blog entries."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1121
+msgid "Full Content Entries"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1122
+msgid ""
+"Select to enable or disable full content entries. If disabled blog entries "
+"will show excerpts.staff_post_featured_iimg"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1129
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1130
+msgid ""
+"Add your own custom blog excerpt length. Used for blog page, archives and "
+"search results. Default is 60 for entry style one and 30 for entry style two."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1136
+#: ../admin/functions/functions.options.php:1166
+msgid ""
+"Enter your custom featured image height in pixels. Default is 220. Enter "
+"9999 to remove all height cropping."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1141
+msgid "Entry Meta"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1142
+#: ../admin/functions/functions.options.php:1182
+msgid "Select to enable or disable the meta box with the date and categories"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1157
+msgid "Post Featured Images"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1158
+msgid "Select to enable or disable the featured image on blog posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1165
+msgid "Post Featured Image Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1172
+msgid "Post Featured Image Lightbox"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1173
+msgid ""
+"Select to enable or disable the the lightbox functionality on blog post "
+"thumbnails."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1181
+msgid "Post Meta"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1189
+msgid "Post Tags"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1190
+msgid "Select to enable or disable the tags display on single posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1197
+msgid "Post Author Bio"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1198
+msgid "Select to enable or disable the author info box on single posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1205
+msgid "Comments"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1208
+msgid "Comments For Blog Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1209
+#: ../admin/functions/functions.options.php:1217
+#: ../admin/functions/functions.options.php:1226
+#: ../admin/functions/functions.options.php:1234
+#: ../admin/functions/functions.options.php:1242
+#: ../admin/functions/functions.options.php:1250
+#: ../admin/functions/functions.options.php:1258
+msgid "Select to enable/disable comments support for these posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1216
+msgid "Comments For Pages"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1225
+msgid "Comments For Portfolio Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1233
+msgid "Comments For Testimonial Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1241
+msgid "Comments For FAQ Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1249
+msgid "Comments For Staff Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1257
+msgid "Comments For Service Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1265
+#: ../admin/functions/functions.options.php:1268
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1269
+msgid ""
+"Select to enable/disable breadcrumbs navigation. Note: If you have Yoast SEO "
+"active with internal links enabled the theme will display Yoast breadcrumbs "
+"instead of the built-in ones."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1276
+msgid "Portfolio Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1277
+msgid "Enter the URL to your portfolio page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1283
+msgid "Staff Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1284
+msgid "Enter the URL to your staff page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1290
+msgid "Service Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1291
+msgid "Enter the URL to your service page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1297
+msgid "Testimonials Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1298
+msgid "Enter the URL to your testimonials page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1304
+msgid "FAQs Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1305
+msgid "Enter the URL to your FAQs page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1311
+msgid "Blog Page URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1312
+msgid "Enter the URL to your blog page. Used for breadcrumbs."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1318
+msgid "Post Types"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1329
+msgid "Portfolio Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1330
+msgid "Enter a custom name for your portfolio post type."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1335
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1336
+msgid ""
+"Enter a custom slug for your portfolio post type. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1341
+msgid "Portfolio Cateogory Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1342
+msgid ""
+"Enter a custom slug for your portfolio taxnomy. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1355
+msgid "Staff Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1356
+#: ../admin/functions/functions.options.php:1382
+#: ../admin/functions/functions.options.php:1408
+#: ../admin/functions/functions.options.php:1428
+msgid "Enter a custom name for your staff post type."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1361
+msgid "Staff Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1362
+#: ../admin/functions/functions.options.php:1388
+#: ../admin/functions/functions.options.php:1414
+#: ../admin/functions/functions.options.php:1434
+msgid ""
+"Enter a custom slug for your staff post type. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1367
+msgid "Staff Cateogory Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1368
+msgid ""
+"Enter a custom slug for your staff taxnomy. Go <strong>save your permalinks</"
+"strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1376
+#: ../functions/breadcrumbs.php:208 ../functions/meta/usage.php:233
+#: ../functions/post-types-taxonomies/register-post-types.php:117
+#: ../functions/post-types-taxonomies/register-taxonomies.php:25
+msgid "Services"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1381
+msgid "Services Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1387
+msgid "Services Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1393
+msgid "Services Cateogory Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1394
+msgid ""
+"Enter a custom slug for your services taxnomy. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1402
+#: ../functions/meta/usage.php:234
+#: ../functions/post-types-taxonomies/register-post-types.php:136
+msgid "Testimonials"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1407
+msgid "Testimonials Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1413
+msgid "Testimonials Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1422
+#: ../functions/breadcrumbs.php:224 ../functions/meta/usage.php:235
+#: ../functions/post-types-taxonomies/register-post-types.php:155
+#: ../functions/post-types-taxonomies/register-taxonomies.php:29
+msgid "FAQs"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1427
+msgid "FAQs Name"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1433
+msgid "FAQs Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1439
+msgid "FAQs Cateogory Slug"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1440
+msgid ""
+"Enter a custom slug for your faqs taxnomy. Go <strong>save your permalinks</"
+"strong> after changing this."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1448
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1449
+msgid "Select to enable or disable the widgetized footer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1456
+msgid "Full-Width Footer Widgets"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1457
+msgid "Select to enable or disable full-width footer widgets."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1464
+msgid "Custom Copyright"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1465
+msgid "Add your own custom text/html for copyright region."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1470
+msgid "Tracking"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1473
+msgid "Header Tracking Code"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1474
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1479
+msgid "Footer Tracking Code"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1480
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1487
+#: ../admin/functions/functions.options.php:1490
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1491
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1497
+msgid "Backup"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1500
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1504
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time.<br /><br />This is useful if you want to "
+"experiment on the options but would like to keep the old settings in case "
+"you need it back."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1507
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1511
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options."
+msgstr ""
+
+#: ../functions/breadcrumbs.php:14 ../functions/breadcrumbs.php:26
+msgid "You are here"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:232
+msgid " Page"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:54
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:55
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:56
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:68
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:69
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/comments-callback.php:28
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments-callback.php:28
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:35
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:75
+msgid "Edit"
+msgstr ""
+
+#: ../functions/comments-callback.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments-callback.php:65
+msgid "reply"
+msgstr ""
+
+#: ../functions/custom-excerpts.php:25
+#: ../functions/widgets/testimonials.php:44
+msgid "read more"
+msgstr ""
+
+#: ../functions/pagination.php:65
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions/pagination.php:67
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions/recommend-plugins.php:57
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/recommend-plugins.php:70
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/scripts.php:47
+msgid "Go to..."
+msgstr ""
+
+#: ../functions/meta/init.php:633
+msgid "Please Try Again"
+msgstr ""
+
+#: ../functions/meta/init.php:650
+msgid "Remove Embed"
+msgstr ""
+
+#: ../functions/meta/init.php:656
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../functions/meta/usage.php:26
+msgid "Caption Title"
+msgstr ""
+
+#: ../functions/meta/usage.php:27
+msgid "Select to enable or disable your slide caption."
+msgstr ""
+
+#: ../functions/meta/usage.php:38
+msgid "Slide Link URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:39
+msgid ""
+"Enter a URL to link this slide to - perfect for linking slides to pages on "
+"your site or other sites. Do not forget the http:// in the url. (Optional)"
+msgstr ""
+
+#: ../functions/meta/usage.php:45 ../functions/meta/usage.php:94
+msgid "Link Target"
+msgstr ""
+
+#: ../functions/meta/usage.php:46
+msgid "Select the target for the slide link."
+msgstr ""
+
+#: ../functions/meta/usage.php:57 ../functions/meta/usage.php:154
+msgid "oEmbed URL (video)"
+msgstr ""
+
+#: ../functions/meta/usage.php:58 ../functions/meta/usage.php:155
+msgid ""
+"Enter the video URL that is compatible with WP's built-in oEmbed feature."
+msgstr ""
+
+#: ../functions/meta/usage.php:58 ../functions/meta/usage.php:155
+msgid "Learn More"
+msgstr ""
+
+#: ../functions/meta/usage.php:64
+msgid "Description"
+msgstr ""
+
+#: ../functions/meta/usage.php:65
+msgid "Enter a description for your slide."
+msgstr ""
+
+#: ../functions/meta/usage.php:87 ../functions/meta/usage.php:191
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:88
+msgid "Enter a URL to link the title of this highlight to. Optional."
+msgstr ""
+
+#: ../functions/meta/usage.php:95
+msgid ""
+"Select the target for the highlight link. Do not forget the http:// in the "
+"url. (Optional)"
+msgstr ""
+
+#: ../functions/meta/usage.php:120
+msgid "Post Style"
+msgstr ""
+
+#: ../functions/meta/usage.php:129
+msgid "Select your post style."
+msgstr ""
+
+#: ../functions/meta/usage.php:132 ../functions/meta/usage.php:247
+msgid "Image Slider"
+msgstr ""
+
+#: ../functions/meta/usage.php:134
+msgid ""
+"Should this portfolio post have an image slider created automatically from "
+"your media attachments? If disabled the theme will only show the featured "
+"image."
+msgstr ""
+
+#: ../functions/meta/usage.php:143
+msgid "Post Details"
+msgstr ""
+
+#: ../functions/meta/usage.php:145
+msgid ""
+"Display the portfolio post details section? The global option in the theme "
+"admin panel will override this."
+msgstr ""
+
+#: ../functions/meta/usage.php:170
+msgid "Custom Date"
+msgstr ""
+
+#: ../functions/meta/usage.php:171
+msgid ""
+"Enter a custom date for the project details. Enter \"disabled\" to "
+"completely disable the date."
+msgstr ""
+
+#: ../functions/meta/usage.php:177 ../includes/portfolio-meta.php:35
+msgid "Cost"
+msgstr ""
+
+#: ../functions/meta/usage.php:178
+msgid "Enter your cost for the project details."
+msgstr ""
+
+#: ../functions/meta/usage.php:184 ../includes/portfolio-meta.php:41
+msgid "Client"
+msgstr ""
+
+#: ../functions/meta/usage.php:185
+msgid "Enter a client name the project details."
+msgstr ""
+
+#: ../functions/meta/usage.php:192
+msgid "Enter a URL for the project details. Don't forget the http://"
+msgstr ""
+
+#: ../functions/meta/usage.php:198
+msgid "Link Name"
+msgstr ""
+
+#: ../functions/meta/usage.php:199
+msgid ""
+"Enter a name for the project details link. If left blank it will just show "
+"the URL linking to itself."
+msgstr ""
+
+#: ../functions/meta/usage.php:220
+msgid "Position"
+msgstr ""
+
+#: ../functions/meta/usage.php:221
+msgid "Enter a position for your staff member."
+msgstr ""
+
+#: ../functions/meta/usage.php:256
+msgid "Choose to enable or disable the page slider based on image"
+msgstr ""
+
+#: ../functions/meta/usage.php:263
+msgid "Select a category for your blog page."
+msgstr ""
+
+#: ../functions/meta/usage.php:266 ../functions/meta/usage.php:273
+#: ../functions/meta/usage.php:280 ../functions/meta/usage.php:287
+#: ../functions/post-types-taxonomies/register-taxonomies.php:37
+#: ../functions/post-types-taxonomies/register-taxonomies.php:59
+#: ../functions/post-types-taxonomies/register-taxonomies.php:81
+#: ../functions/post-types-taxonomies/register-taxonomies.php:102
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:29
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:30
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:33
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:34
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:35
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:36
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:37
+msgid "Category"
+msgstr ""
+
+#: ../functions/meta/usage.php:270
+msgid ""
+"Select a category for your portfolio page.<br />For the filterable portfolio "
+"and portfolio by category it must be a parent category."
+msgstr ""
+
+#: ../functions/meta/usage.php:277
+msgid "Select a category for your services page."
+msgstr ""
+
+#: ../functions/meta/usage.php:284
+msgid ""
+"Select a category for your FAQs page.<br />Must choose a parent category."
+msgstr ""
+
+#: ../functions/meta/usage.php:291
+msgid ""
+"Select a category for your staff page.<br />Must choose a parent category "
+"for the staff by category page template."
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:20
+msgid "HP Slides"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:21
+msgid "Slide"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:23
+msgid "Add New Slide"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:24
+msgid "Edit Slide"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:25
+msgid "New Slide"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:26
+msgid "View Slide"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:27
+msgid "Search Slides"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:28
+msgid "No Slides found"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:29
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:48
+msgid "HP Highlights"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:49
+msgid "Highlight"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:51
+msgid "Add New Highlight"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:52
+msgid "Edit Highlight"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:53
+msgid "New Highlight"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:54
+msgid "View Highlight"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:55
+msgid "Search Highlights"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:56
+msgid "No Highlights found"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-types.php:57
+msgid "No Highlights found in Trash"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:36
+#: ../functions/post-types-taxonomies/register-taxonomies.php:58
+#: ../functions/post-types-taxonomies/register-taxonomies.php:80
+#: ../functions/post-types-taxonomies/register-taxonomies.php:101
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:28
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:31
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:32
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:42
+msgid "Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:38
+#: ../functions/post-types-taxonomies/register-taxonomies.php:60
+#: ../functions/post-types-taxonomies/register-taxonomies.php:82
+#: ../functions/post-types-taxonomies/register-taxonomies.php:103
+msgid "Search Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:39
+#: ../functions/post-types-taxonomies/register-taxonomies.php:61
+#: ../functions/post-types-taxonomies/register-taxonomies.php:83
+#: ../functions/post-types-taxonomies/register-taxonomies.php:104
+msgid "All Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:40
+#: ../functions/post-types-taxonomies/register-taxonomies.php:62
+#: ../functions/post-types-taxonomies/register-taxonomies.php:84
+#: ../functions/post-types-taxonomies/register-taxonomies.php:105
+msgid "Parent Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:41
+#: ../functions/post-types-taxonomies/register-taxonomies.php:63
+#: ../functions/post-types-taxonomies/register-taxonomies.php:85
+#: ../functions/post-types-taxonomies/register-taxonomies.php:106
+msgid "Parent Category:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:42
+#: ../functions/post-types-taxonomies/register-taxonomies.php:64
+#: ../functions/post-types-taxonomies/register-taxonomies.php:86
+#: ../functions/post-types-taxonomies/register-taxonomies.php:107
+msgid "Edit  Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:43
+#: ../functions/post-types-taxonomies/register-taxonomies.php:65
+#: ../functions/post-types-taxonomies/register-taxonomies.php:87
+#: ../functions/post-types-taxonomies/register-taxonomies.php:108
+msgid "Update Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:44
+#: ../functions/post-types-taxonomies/register-taxonomies.php:66
+#: ../functions/post-types-taxonomies/register-taxonomies.php:88
+#: ../functions/post-types-taxonomies/register-taxonomies.php:109
+msgid "Add New  Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:45
+#: ../functions/post-types-taxonomies/register-taxonomies.php:67
+#: ../functions/post-types-taxonomies/register-taxonomies.php:89
+#: ../functions/post-types-taxonomies/register-taxonomies.php:110
+msgid "New Category Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-taxonomies.php:46
+#: ../functions/post-types-taxonomies/register-taxonomies.php:68
+#: ../functions/post-types-taxonomies/register-taxonomies.php:90
+#: ../functions/post-types-taxonomies/register-taxonomies.php:111
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:30
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:70
+msgid "Search"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:31
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:71
+msgid "Popular"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:33
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:34
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:73
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:74
+msgid "Parent"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:36
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:76
+msgid "Update"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:37
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:77
+msgid "Add New"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:38
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:78
+msgid "New"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:38
+msgid "Category name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:39
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:79
+msgid "Seperate"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:39
+msgid "categories with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:40
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:80
+msgid "Add or remove"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:40
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:41
+msgid "categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:41
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:81
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:69
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:70
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:73
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:74
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:75
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:76
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:77
+msgid "Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:78
+msgid "Tag name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:79
+msgid "tags with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:80
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:81
+msgid "tags"
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:12
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:14
+msgid "Office - Flickr"
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:65
+#: ../functions/widgets/recent-portfolio.php:76
+#: ../functions/widgets/testimonials.php:81
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:70
+msgid "Flickr ID "
+msgstr ""
+
+#: ../functions/widgets/flickr-widget.php:75
+msgid "Number:"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:80
+#: ../functions/widgets/testimonials.php:85
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:84
+#: ../functions/widgets/testimonials.php:89
+msgid "Offset (the number of posts to skip):"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:88
+msgid "Select a Category:"
+msgstr ""
+
+#: ../functions/widgets/testimonials.php:44
+msgid "Read More"
+msgstr ""
+
+#: ../functions/widgets/testimonials.php:94
+msgid "Check to show only an excerpt"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:11
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:21
+msgid "Footer Left"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:23
+msgid "Widgets in this area will be shown in the footer left area."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:31
+msgid "Footer Middle"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:33
+msgid "Widgets in this area will be shown in the footer middle area."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:41
+msgid "Footer Right"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:43
+msgid "Widgets in this area will be shown in the footer right area."
+msgstr ""
+
+#: ../includes/home-blog.php:40
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/home-highlights.php:22 ../includes/home-pagecontent.php:12
+msgid "What We Do"
+msgstr ""
+
+#: ../includes/home-portfolio.php:41
+msgid "Recent Work"
+msgstr ""
+
+#: ../includes/home-tagline.php:13
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/portfolio-meta.php:19 ../includes/portfolio-meta.php:23
+msgid "Date"
+msgstr ""
+
+#: ../includes/portfolio-meta.php:29
+msgid "Labeled"
+msgstr ""
+
+#: ../includes/portfolio-meta.php:47 ../includes/portfolio-meta.php:53
+msgid "Website"
+msgstr ""
+
+#: ../includes/portfolio-meta.php:47
+msgid "Visit Website"
+msgstr ""

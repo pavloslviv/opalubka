@@ -1,0 +1,61 @@
+.form-table td.callphoner_heading_line {
+	padding-bottom: 0;
+	padding-left: 0;
+}
+
+.form-table td.callphoner_heading_line h3 {
+	margin: 0;
+	padding: 0;
+}
+
+#callphoner_current_timestamp {
+	margin: 0 0 15px 0;
+}
+
+#callphoner_background_color {
+	margin: 2px 0 0 0;
+}
+
+.callphoner_schedule_row {
+	overflow: hidden;
+	margin: 0 0 20px 0;
+}
+
+.callphoner_schedule_row_item {
+	float: left;
+	margin: 0 30px 0 0;
+}
+
+.callphoner_row_day_checkbox {
+	margin-top: 15px;
+}
+
+.callphoner_schedule_row_item label.callphoner_day_label {
+	font-weight: 700;
+}
+
+.callphoner_schedule_head {
+	font-weight: 700;
+	text-align: center;
+	font-size: 16px;
+}
+
+.callphoner_row_day {
+	width: 120px;
+}
+
+.callphoner_row_work, .callphoner_row_break {
+	width: 150px;
+}
+
+.callphoner_work_checkbox, .callphoner_break_checkbox {
+	margin: 5px 0 0 0;
+}
+
+.callphoner_work_checkbox label, .callphoner_break_checkbox label {
+	font-style: italic;
+}
+
+.callphoner_work_checkbox input, .callphoner_break_checkbox input, .callphoner_row_day input {
+	margin-top: 2px;
+}
